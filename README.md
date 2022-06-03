@@ -10,3 +10,4 @@ I worked on this project for a recruitment process I was involved in in Spring 2
 * Even though the CVR was higher for group B during the treatment time, it has not proven significant and players in group A and B convert equally likely
 * The change in the game (version B) has not led players to convert significantly more
 
+![conversions](https://github.com/alice203/abtest-user-experience/blob/master/plots/plot1-abtest-ue.png?raw=true)
